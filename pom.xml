@@ -63,13 +63,13 @@
 	</pluginRepositories>
 
 	<build>
-<plugins>
-<plugin>
-<groupid>org.apache.maven.plugins</groupid>
-<artifactid>maven-war-plugin</artifactid>
-<version>3.4.8</version>
-<plugin>
-<plugins>
-<build>
+       <plugins>
+          <plugin>
+             <groupid>org.apache.maven.plugins</groupid>
+             <artifactid>maven-war-plugin</artifactid>
+              <version>3.4.8</version>
+          <plugin>
+         <plugins>
+       <build>
 	
 </project>
